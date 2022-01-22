@@ -15,3 +15,4 @@
 * "visit_count"        
 * "count2" 
 ### Sessions decoded
+![alt text](https://github.com/HenryCodeT/FileSizePOC/blob/main/decode_session.png?raw=true)
